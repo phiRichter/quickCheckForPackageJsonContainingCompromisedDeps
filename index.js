@@ -27,6 +27,7 @@ const compromisedPackages = [
 	'duckdb@1.3.3',
 	'prebid@10.9.1',
 	'prebid@10.9.2',
+	'error-ex@1.3.3',
 ];
 
 function findPackageLocks(dir, results = []) {
